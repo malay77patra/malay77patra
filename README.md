@@ -13,7 +13,6 @@
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="VS Code" src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
   <img alt="Supabase" src="https://img.shields.io/badge/-Supabase-3CD08E?style=flat-square&logo=supabase&logoColor=white" />
   <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
   <img alt="Selenium" src="https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" />
@@ -32,6 +31,13 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td><a href="https://github.com/malay77patra/flamecoders-frontend"><b>Flamecoders</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/malay77patra/flamecoders-frontend?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/malay77patra/flamecoders-frontend?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/malay77patra/flamecoders-frontend?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/malay77patra/flamecoders-frontend?style=flat-square&labelColor=343b41"/></td>
+    </tr>
     <tr>
       <td><a href="https://github.com/malay77patra/live-html"><b>Live Html Editor</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/malay77patra/live-html?style=flat-square&labelColor=343b41"/></td>
