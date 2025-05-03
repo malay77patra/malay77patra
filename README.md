@@ -26,32 +26,28 @@
       <td><b>🎁 Projects</b></td>
       <td><b>⭐ Stars</b></td>
       <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
+      <td><b>📂 Source Code</b></td>
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td><a href="https://flamecoders.vercel.app"><b>Flamecoders</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/malay77patra/flamecoders-frontend?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/malay77patra/flamecoders-frontend?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/malay77patra/flamecoders-frontend?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/malay77patra/flamecoders-frontend?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://upmagic.vercel.app"><b>Upmagic</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/malay77patra/upmagic?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/malay77patra/upmagic?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/malay77patra/upmagic?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/malay77patra/upmagic?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/malay77patra/DocGen"><b>DocGen</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/malay77patra/DocGen?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/malay77patra/DocGen?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/malay77patra/DocGen?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/malay77patra/DocGen?style=flat-square&labelColor=343b41"/></td>
-    </tr>
+   <tr>
+    <td><a href="https://flamecoders.vercel.app"><b>Flamecoders</b></a></td>
+    <td><img alt="Stars" src="https://img.shields.io/github/stars/malay77patra/flamecoders-frontend?style=flat-square&labelColor=343b41"/></td>
+    <td><img alt="Forks" src="https://img.shields.io/github/forks/malay77patra/flamecoders-frontend?style=flat-square&labelColor=343b41"/></td>
+    <td><a href="https://github.com/malay77patra/flamecoders-frontend">Repo</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://upmagic.vercel.app"><b>Upmagic</b></a></td>
+    <td><img alt="Stars" src="https://img.shields.io/github/stars/malay77patra/upmagic?style=flat-square&labelColor=343b41"/></td>
+    <td><img alt="Forks" src="https://img.shields.io/github/forks/malay77patra/upmagic?style=flat-square&labelColor=343b41"/></td>
+    <td><a href="https://github.com/malay77patra/upmagic">Repo</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/malay77patra/DocGen"><b>DocGen</b></a></td>
+    <td><img alt="Stars" src="https://img.shields.io/github/stars/malay77patra/DocGen?style=flat-square&labelColor=343b41"/></td>
+    <td><img alt="Forks" src="https://img.shields.io/github/forks/malay77patra/DocGen?style=flat-square&labelColor=343b41"/></td>
+    <td><a href="https://github.com/malay77patra/DocGen">Repo</a></td>
+  </tr>
   </tbody>
 </table>
 
