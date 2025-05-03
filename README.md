@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm Malay Patra, Full Stack MERN Developer and Python Expert from <img src="https://cdn-icons-png.flaticon.com/512/197/197419.png" width="13"/> <b>India</b>. Passionate about building scalable web apps, writing clean code, and automating the boring stuff.</p>
+<p>Welcome to my page! </br> I'm **Malay Patra**, Full Stack MERN Developer and Python Expert from <img src="https://cdn-icons-png.flaticon.com/512/197/197419.png" width="13"/> <b>India</b>. Passionate about building scalable web apps, writing clean code, and automating the boring stuff.</p>
 
 <h3>Things I code with</h3>
 <p>
@@ -32,18 +32,18 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/malay77patra/flamecoders-frontend"><b>Flamecoders</b></a></td>
+      <td><a href="https://flamecoders.vercel.app"><b>Flamecoders</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/malay77patra/flamecoders-frontend?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/malay77patra/flamecoders-frontend?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/malay77patra/flamecoders-frontend?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/malay77patra/flamecoders-frontend?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/malay77patra/live-html"><b>Live Html Editor</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/malay77patra/live-html?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/malay77patra/live-html?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/malay77patra/live-html?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/malay77patra/live-html?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://upmagic.vercel.app"><b>Upmagic</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/malay77patra/upmagic?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/malay77patra/upmagic?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/malay77patra/upmagic?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/malay77patra/upmagic?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/malay77patra/DocGen"><b>DocGen</b></a></td>
